@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# don't upload following folders
+readings
+data
+s3_info.py
+rootkey.csv
