@@ -131,5 +131,4 @@ dmypy.json
 # don't upload following folders
 readings
 data
-s3_info.py
-rootkey.csv
+data_cleaning_loading/s3_info.py
